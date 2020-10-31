@@ -12,13 +12,22 @@ https://www.bilibili.com/video/av67886721
 The traditional method of image watermark removal is efficient, but it is more damaging to the details. Removing watermarks is simple and easy to say, and hard to do. Some watermarks with repair stamp take a few seconds to remove, some watermarks take a couple of hours without being able to totally removed it correctly.
 
 Some images that are not very rich in detail can be filled with near pixel by an image processing software such as Photoshop to cover up the watermark part, and you can achieve near perfect results.
-![nyyyJsI.png](doc/img/v2-37061814ffd73b13b3be8b1cb816c8ab_r.jpg)
+![nyyyJsI.png](doc/img/watermark_details.jpg)
 
 
 # Watermark Removal
 This is the result of 9 hours of training on the 1050ti, it may be a little dirty, but theoretically 20 hours or more of training is enough to reach a usable level (left is the original image, right is the de-watermarked image,) 
-![nNIGQA.png](doc/img/nNIGQA.png)![nNIUdf.png](doc/img/nNIUdf.png)![nNINeP.png](doc/img/nNINeP.png)![nNIYLt.png](doc/img/nNIYLt.png)![nNIJsI.png](doc/img/nNIJsI.png)![nNIao8.png](doc/img/nNIao8.png)![nNIwFS.png](doc/img/nNIwFS.png)![nNI0Jg.png](doc/img/nNI0Jg.png)![nNIBWQ.png](doc/img/nNIBWQ.png)![nNIDzj.png](doc/img/nNIDzj.png)
+![nNIGQA.png](doc/img/01.png)
+![nNIUdf.png](doc/img/02.png)
+![nNINeP.png](doc/img/03.png)
+![nNIYLt.png](doc/img/04.png)
+![nNIJsI.png](doc/img/05.png)
+![nNIao8.png](doc/img/06.png)
+![nNIwFS.png](doc/img/07.png)
+![nNI0Jg.png](doc/img/08.png)
+![nNIBWQ.png](doc/img/09.png)
+![nNIDzj.png](doc/img/10.png)
 
 It is better than professional-grade software such as photoshop.
 
-![](doc/img/v2-f2996de63636a0c5ee97c6ff5218ed7f_b.png)
+![](doc/img/photoshop_comparison.png)
