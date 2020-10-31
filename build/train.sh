@@ -1,0 +1,1 @@
+python train.py --image_dir dataset/train --test_dir dataset/test --image_size 128 --batch_size 8 --lr 0.001 --source_noise_model text,0,50 --target_noise_model text,0,50 --val_noise_model text,25,25 --loss mae --output_path text_noise
